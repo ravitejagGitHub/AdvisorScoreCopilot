@@ -32,8 +32,8 @@ string prompt = """
     You are a helpful travel guide. 
     I'm visiting {{$city}}. {{$background}}. What are some activities I should do today?
     """;
-string city = "Barcelona";
-string background = "I really enjoy art and dance.";
+string city = "India";
+string background = "I really enjoy adventurous and new places.";
 
 // Create the kernel function from the prompt
 var activitiesFunction = kernel.CreateFunctionFromPrompt(prompt);
