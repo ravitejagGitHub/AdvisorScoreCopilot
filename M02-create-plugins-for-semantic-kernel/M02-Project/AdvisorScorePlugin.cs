@@ -9,12 +9,14 @@ using Microsoft.SemanticKernel;
 public class AdvisorScorePlugin
 {
     private const string FilePath = "advisor_scores.json";
+    private const string MetadataFilePath = "subscriptions_metadata.json";
     private List<AdvisorScoreModel> advisorScores;
 
     public AdvisorScorePlugin()
     {
         // Load advisor scores from the file
         advisorScores = LoadAdvisorScoresFromFile();
+        GetSubscriptionsMetadata();
     }
 
  
@@ -30,6 +32,20 @@ public class AdvisorScorePlugin
         }
 
         return JsonSerializer.Serialize(scores, new JsonSerializerOptions { WriteIndented = true });
+    }
+
+    [KernelFunction("get_subscriptions_metadata")]
+    [Description("Fetches metadata for all available subscriptions. use this to indentify the subscription ID, name and type.")]
+    [return: Description("A list of subscription metadata including ID, name, and type.")]
+    public List<SubscriptionMetadata> GetSubscriptionsMetadata()
+    {
+        if (!File.Exists(MetadataFilePath))
+        {
+            throw new FileNotFoundException($"The file '{MetadataFilePath}' was not found. Please ensure the file exists.");
+        }
+
+        var metadataJson = File.ReadAllText(MetadataFilePath);
+        return JsonSerializer.Deserialize<List<SubscriptionMetadata>>(metadataJson)!;
     }
 
     private List<AdvisorScoreModel> LoadAdvisorScoresFromFile()
@@ -74,4 +90,12 @@ public class ScoreData
     public int impactedResourceCount { get; set; }
     public float potentialScoreIncrease { get; set; }
     public int categoryCount { get; set; }
+}
+
+// Subscription metadata model
+public class SubscriptionMetadata
+{
+    public string Id { get; set; } = string.Empty;
+    public required string Name { get; set; }
+    public required string Type { get; set; }
 }
