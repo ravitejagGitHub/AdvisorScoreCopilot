@@ -1,0 +1,1662 @@
+[
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 30,
+                "consumptionUnits": 300,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 3,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 97.86459147274202,
+                            "consumptionUnits": 39760.41348093709,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.4270817054515952,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 98.78965460789395,
+                            "consumptionUnits": 39747.99713375249,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.24206907842120984,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 97.0573629238281,
+                            "consumptionUnits": 39486.63760485843,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.7356592690429764,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 97.86516221591675,
+                            "consumptionUnits": 39296.610536657274,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.42696755681664866,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-28T00:00:00Z",
+                            "score": 99.12580131486945,
+                            "consumptionUnits": 11470.31912408854,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.43709934256527805,
+                            "categoryCount": 2
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 98.04132465890379,
+                            "consumptionUnits": 158291.65875620526,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.3917350682192411,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 97.16393864504097,
+                            "consumptionUnits": 129415.78516007337,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.7090153387397574,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 98.41183905512963,
+                            "consumptionUnits": 276774.15721282957,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.31763218897407297,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 91.98003308149323,
+                            "consumptionUnits": 278119.40853277105,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 1.6039933837013542,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 97.76779084820714,
+                            "consumptionUnits": 281542.1845679699,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.44644183035857044,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 97.84813379884469,
+                            "consumptionUnits": 265425.78718324343,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.4303732402310634,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 97.31322067198343,
+                            "consumptionUnits": 272076.2953683234,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.5373558656033128,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-13T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-06T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-29T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-22T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-15T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-08T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 98,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 56,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 98.04132465890379,
+                            "consumptionUnits": 158291.6587562053,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.3917350682192411,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 96.1026617852369,
+                            "consumptionUnits": 1047736.0346550813,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.7794676429526182,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 97.33200600822886,
+                            "consumptionUnits": 1185916.4503555838,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.5335987983542267,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 97.94942079747469,
+                            "consumptionUnits": 1020331.8650410003,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0.4101158405050631,
+                            "categoryCount": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Advisor",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Advisor"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 20,
+                "consumptionUnits": 200,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 2,
+                "categoryCount": 5
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 99.7026801997043,
+                            "consumptionUnits": 6576.443644378215,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.059463960059140675,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 99.7096327501792,
+                            "consumptionUnits": 6575.979766076363,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.058073449964162194,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 99.6948975381741,
+                            "consumptionUnits": 6549.033676447167,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.07627561545647532,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 99.70139078187465,
+                            "consumptionUnits": 6536.280595534543,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.05972184362506905,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-28T00:00:00Z",
+                            "score": 98.25160262973888,
+                            "consumptionUnits": 6566.148971815559,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.8741986851305561,
+                            "categoryCount": 2
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 99.70215031748305,
+                            "consumptionUnits": 26237.737682436287,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.29784968251694854,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 98.99992075262467,
+                            "consumptionUnits": 26166.41258425588,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 1.0000792473753295,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 99.70929106998682,
+                            "consumptionUnits": 45741.734661516806,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.29070893001318376,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 99.20476847686318,
+                            "consumptionUnits": 48538.76594311735,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.795231523136819,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 99.56234909724742,
+                            "consumptionUnits": 47834.21400745827,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.43765090275257323,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 99.76718672926283,
+                            "consumptionUnits": 42887.56916469718,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.2328132707371644,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 98.98840396053768,
+                            "consumptionUnits": 50033.66324520386,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 1.0115960394623258,
+                            "categoryCount": 5
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 99.70215031748306,
+                            "consumptionUnits": 26237.737682436287,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.05956993650338749,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 99.43728233081409,
+                            "consumptionUnits": 182569.89749995258,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.11254353383718163,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 99.14673862163029,
+                            "consumptionUnits": 208982.72659498133,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.17065227567394148,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 99.01893130522073,
+                            "consumptionUnits": 166529.60913336417,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 0.1962137389558527,
+                            "categoryCount": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Cost",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Cost"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-01-30T00:00:00Z",
+                "score": 100,
+                "consumptionUnits": 4,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2025-01-30T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 4,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Security",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Security"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 86.45276292335116,
+                "consumptionUnits": 67,
+                "impactedResourceCount": 3,
+                "potentialScoreIncrease": 13.547237076648843,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 86.45276292335116,
+                            "consumptionUnits": 67,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 13.547237076648843,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-05T00:00:00Z",
+                            "score": 86.45276292335114,
+                            "consumptionUnits": 67,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 13.547237076648843,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-04T00:00:00Z",
+                            "score": 86.45276292335114,
+                            "consumptionUnits": 67,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 13.547237076648843,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-03T00:00:00Z",
+                            "score": 98.2174688057041,
+                            "consumptionUnits": 67,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 1.7825311942959001,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Performance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 99.68992248062017,
+                "consumptionUnits": 75,
+                "impactedResourceCount": 2,
+                "potentialScoreIncrease": 0.31007751937984496,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2025-02-07T00:00:00Z",
+                            "score": 99.68992248062017,
+                            "consumptionUnits": 75,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.31007751937984496,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-05T00:00:00Z",
+                            "score": 99.68992248062015,
+                            "consumptionUnits": 75,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 0.31007751937984496,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-04T00:00:00Z",
+                            "score": 86.35658914728681,
+                            "consumptionUnits": 75,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 13.64341085271318,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-03T00:00:00Z",
+                            "score": 86.35658914728683,
+                            "consumptionUnits": 75,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 13.64341085271318,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "OperationalExcellence"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 71.52645502645503,
+                "consumptionUnits": 91,
+                "impactedResourceCount": 38,
+                "potentialScoreIncrease": 28.473544973544975,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2025-02-07T00:00:00Z",
+                            "score": 71.52645502645503,
+                            "consumptionUnits": 91,
+                            "impactedResourceCount": 38,
+                            "potentialScoreIncrease": 28.473544973544975,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-05T00:00:00Z",
+                            "score": 71.59955444165969,
+                            "consumptionUnits": 95,
+                            "impactedResourceCount": 38,
+                            "potentialScoreIncrease": 28.40044555834029,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-04T00:00:00Z",
+                            "score": 71.59955444165969,
+                            "consumptionUnits": 95,
+                            "impactedResourceCount": 38,
+                            "potentialScoreIncrease": 28.400445558340294,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2025-02-03T00:00:00Z",
+                            "score": 71.5995544416597,
+                            "consumptionUnits": 95,
+                            "impactedResourceCount": 38,
+                            "potentialScoreIncrease": 28.40044555834029,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "HighAvailability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 60,
+                "consumptionUnits": 600,
+                "impactedResourceCount": 1,
+                "potentialScoreIncrease": 6,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/AdvisorScore/52fef986-5897-4359-8b92-0f22749f0d73",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "52fef986-5897-4359-8b92-0f22749f0d73"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 50,
+                "consumptionUnits": 500,
+                "impactedResourceCount": 26,
+                "potentialScoreIncrease": 5,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/AdvisorScore/42dbf883-9e4b-4f84-9da4-232b87c4b5e9",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "8b993855-1b3f-4392-8860-6ed4f5afd8a7"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 10,
+                "consumptionUnits": 100,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 1,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 1,
+                            "consumptionUnits": 100,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 2,
+                            "consumptionUnits": 50,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 3,
+                            "consumptionUnits": 100,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 80,
+                            "consumptionUnits": 100,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-28T00:00:00Z",
+                            "score": 82,
+                            "consumptionUnits": 50,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 2
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 79,
+                            "consumptionUnits": 65,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 85,
+                            "consumptionUnits": 51,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 80,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 76,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 80,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 84,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 82,
+                            "consumptionUnits": 10,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-13T00:00:00Z",
+                            "score": 76,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 23,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-06T00:00:00Z",
+                            "score": 73,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 26,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-29T00:00:00Z",
+                            "score": 75,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 24,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-22T00:00:00Z",
+                            "score": 77,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 22,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-15T00:00:00Z",
+                            "score": 82,
+                            "consumptionUnits": 208,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 17,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-08T00:00:00Z",
+                            "score": 74,
+                            "consumptionUnits": 222,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 25,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 77,
+                            "consumptionUnits": 144,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 22,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 79,
+                            "consumptionUnits": 65,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 79,
+                            "consumptionUnits": 42,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 83,
+                            "consumptionUnits": 45,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 84,
+                            "consumptionUnits": 34,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Advisor",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Advisor"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 10,
+                "consumptionUnits": 100,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 1,
+                "categoryCount": 5
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 15,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 7,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 15,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 7,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 15,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 9,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 15,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 7,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-28T00:00:00Z",
+                            "score": 64,
+                            "consumptionUnits": 16,
+                            "impactedResourceCount": 11,
+                            "potentialScoreIncrease": 17,
+                            "categoryCount": 5
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 63,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 37,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 63,
+                            "consumptionUnits": 64,
+                            "impactedResourceCount": 17,
+                            "potentialScoreIncrease": 36,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 61,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 18,
+                            "potentialScoreIncrease": 38,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 59,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 18,
+                            "potentialScoreIncrease": 40,
+                            "categoryCount": 3
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 66,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 17,
+                            "potentialScoreIncrease": 33,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 10,
+                            "impactedResourceCount": 12,
+                            "potentialScoreIncrease": 37,
+                            "categoryCount": 4
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 61,
+                            "consumptionUnits": 11,
+                            "impactedResourceCount": 12,
+                            "potentialScoreIncrease": 38,
+                            "categoryCount": 5
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 63,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 7,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 62,
+                            "consumptionUnits": 44,
+                            "impactedResourceCount": 18,
+                            "potentialScoreIncrease": 7,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 67,
+                            "consumptionUnits": 49,
+                            "impactedResourceCount": 12,
+                            "potentialScoreIncrease": 6,
+                            "categoryCount": 5
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 66,
+                            "consumptionUnits": 35,
+                            "impactedResourceCount": 13,
+                            "potentialScoreIncrease": 6,
+                            "categoryCount": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Cost",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Cost"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 30,
+                "consumptionUnits": 300,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 3,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 20,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 20,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 20,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 60,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 40,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 140,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 40,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 51,
+                            "consumptionUnits": 140,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 48,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 61,
+                            "consumptionUnits": 140,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 38,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 78,
+                            "consumptionUnits": 180,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 21,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 76,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 23,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-13T00:00:00Z",
+                            "score": 76,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 23,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-06T00:00:00Z",
+                            "score": 73,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 26,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-29T00:00:00Z",
+                            "score": 75,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 24,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-22T00:00:00Z",
+                            "score": 77,
+                            "consumptionUnits": 210,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 22,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-15T00:00:00Z",
+                            "score": 82,
+                            "consumptionUnits": 208,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 17,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-08T00:00:00Z",
+                            "score": 74,
+                            "consumptionUnits": 222,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 25,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 77,
+                            "consumptionUnits": 144,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 22,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 60,
+                            "consumptionUnits": 60,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 59,
+                            "consumptionUnits": 450,
+                            "impactedResourceCount": 4,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 76,
+                            "consumptionUnits": 930,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 78,
+                            "consumptionUnits": 844,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 4,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Security",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Security"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 40,
+                "consumptionUnits": 400,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 4,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 44,
+                            "impactedResourceCount": 108,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 44,
+                            "impactedResourceCount": 108,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 451,
+                            "impactedResourceCount": 107,
+                            "potentialScoreIncrease": 3,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 447,
+                            "impactedResourceCount": 108,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 179,
+                            "impactedResourceCount": 108,
+                            "potentialScoreIncrease": 14,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 87,
+                            "consumptionUnits": 133,
+                            "impactedResourceCount": 109,
+                            "potentialScoreIncrease": 12,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 89,
+                            "consumptionUnits": 302,
+                            "impactedResourceCount": 107,
+                            "potentialScoreIncrease": 10,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 88,
+                            "consumptionUnits": 301,
+                            "impactedResourceCount": 111,
+                            "potentialScoreIncrease": 11,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 87,
+                            "consumptionUnits": 301,
+                            "impactedResourceCount": 110,
+                            "potentialScoreIncrease": 12,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 89,
+                            "consumptionUnits": 292,
+                            "impactedResourceCount": 15,
+                            "potentialScoreIncrease": 10,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 327,
+                            "impactedResourceCount": 111,
+                            "potentialScoreIncrease": 14,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 179,
+                            "impactedResourceCount": 108,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 88,
+                            "consumptionUnits": 145,
+                            "impactedResourceCount": 111,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 87,
+                            "consumptionUnits": 141,
+                            "impactedResourceCount": 113,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 89,
+                            "consumptionUnits": 111,
+                            "impactedResourceCount": 112,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/HighAvailability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "HighAvailability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 50,
+                "consumptionUnits": 500,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 974,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 98,
+                            "consumptionUnits": 994,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 982,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 979,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-28T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 975,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 99,
+                            "consumptionUnits": 393,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 3898,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 712,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 98,
+                            "consumptionUnits": 690,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 742,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 100,
+                            "consumptionUnits": 735,
+                            "impactedResourceCount": 0,
+                            "potentialScoreIncrease": 0,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 99,
+                            "consumptionUnits": 7348,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 99,
+                            "consumptionUnits": 393,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 99,
+                            "consumptionUnits": 274,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 98,
+                            "consumptionUnits": 321,
+                            "impactedResourceCount": 2,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 99,
+                            "consumptionUnits": 278,
+                            "impactedResourceCount": 3,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Performance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Performance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 60,
+                "consumptionUnits": 600,
+                "impactedResourceCount": 0,
+                "potentialScoreIncrease": 6,
+                "categoryCount": 1
+            },
+            "timeSeries": [
+                {
+                    "aggregationLevel": "Daily",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-04T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 917,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-03T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 920,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-02T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 92,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 915,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Weekly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 368,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-24T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 275,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 8,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-17T00:00:00Z",
+                            "score": 89,
+                            "consumptionUnits": 645,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 10,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-10T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 650,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 14,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-03T00:00:00Z",
+                            "score": 87,
+                            "consumptionUnits": 650,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 12,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-27T00:00:00Z",
+                            "score": 88,
+                            "consumptionUnits": 647,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 11,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-20T00:00:00Z",
+                            "score": 85,
+                            "consumptionUnits": 502,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 14,
+                            "categoryCount": 1
+                        }
+                    ]
+                },
+                {
+                    "aggregationLevel": "Monthly",
+                    "scoreHistory": [
+                        {
+                            "date": "2024-12-01T00:00:00Z",
+                            "score": 91,
+                            "consumptionUnits": 36,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 1,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-11-01T00:00:00Z",
+                            "score": 88,
+                            "consumptionUnits": 2406,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-10-01T00:00:00Z",
+                            "score": 86,
+                            "consumptionUnits": 230,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        },
+                        {
+                            "date": "2024-09-01T00:00:00Z",
+                            "score": 87,
+                            "consumptionUnits": 169,
+                            "impactedResourceCount": 1,
+                            "potentialScoreIncrease": 2,
+                            "categoryCount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/OperationalExcellence",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "OperationalExcellence"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 70,
+                "consumptionUnits": 700,
+                "impactedResourceCount": 1,
+                "potentialScoreIncrease": 7,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/AdvisorScore/8b993855-1b3f-4392-8860-6ed4f5afd8a7",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "8b993855-1b3f-4392-8860-6ed4f5afd8a7"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 80,
+                "consumptionUnits": 800,
+                "impactedResourceCount": 2,
+                "potentialScoreIncrease": 8,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/AdvisorScore/cc9d34f5-f9b8-4d4f-9de7-98b45c698a49",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "cc9d34f5-f9b8-4d4f-9de7-98b45c698a49"
+    }
+]

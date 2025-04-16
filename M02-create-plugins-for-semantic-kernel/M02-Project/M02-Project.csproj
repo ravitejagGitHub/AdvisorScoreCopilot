@@ -21,6 +21,9 @@
     <None Update="flights.json">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="advisor_scores.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

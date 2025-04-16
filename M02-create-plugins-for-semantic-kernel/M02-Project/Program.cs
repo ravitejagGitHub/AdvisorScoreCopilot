@@ -28,44 +28,52 @@ builder.AddAzureOpenAIChatCompletion(modelId, endpoint, apiKey);
 var kernel = builder.Build();
 
 var chatCompletionService = kernel.GetRequiredService<IChatCompletionService>();
-kernel.Plugins.AddFromType<FlightBookingPlugin>("FlightBooking");
+kernel.Plugins.AddFromType<AdvisorScorePlugin>("AdvisorScorePlugin");
 OpenAIPromptExecutionSettings openAIPromptExecutionSettings = new() 
 {
     FunctionChoiceBehavior = FunctionChoiceBehavior.Auto()
 };
 
 
-// string prompt = """
-//     You are a helpful travel guide. 
-//     I'm visiting {{$city}}. {{$background}}. What are some activities I should do today?
-//     """;
-// string city = "India";
-// string background = "I really enjoy adventurous and new places.";
+string prompt = """
+    You are a helpful advisor score support engineer agent, where you can analise score data and help use exaplin the score logic. 
+    You can able to decode prompt and get subscription ids and score and other information from the prompt.
+    Idenity the subscription ID and score from the prompt and provide a detailed explanation of the score logic.
+    A UUID or GUID type unique identifier provided by the user e.g. b4a7f3e1-9d5e-4a9c-8b5e-2b0a7c8f6d3d or found in the prefix of an Azure resource id, e.g. /subscriptions/{subscriptionId}.
+    The category of the score or topic user wants help by decoding score context with name property. Possible values include: 'Advisor' or 'Overall', 'Cost', 'Security', 'OperationalExcellence', 'Performance', 'HighAvailability' or 'Reliability'. Map any synonyms to one of the categories based name propery in advisor score context.
+    """;
 
-// // Create the kernel function from the prompt
-// var activitiesFunction = kernel.CreateFunctionFromPrompt(prompt);
+// Create the kernel function from the prompt
+var activitiesFunction = kernel.CreateFunctionFromPrompt(prompt);
 
-// // Create the kernel arguments
-// var arguments = new KernelArguments { ["city"] = city, ["background"] = background };
 
-// // InvokeAsync on the kernel object
-// var result = await kernel.InvokeAsync(activitiesFunction, arguments);
+// InvokeAsync on the kernel object
+var result = await kernel.InvokeAsync(activitiesFunction);
 // Console.WriteLine(result);
 
 var history = new ChatHistory();
-history.AddSystemMessage("The year is 2025 and the current month is January");
 
-GetInput();
-await GetReply();
-GetInput();
-await GetReply();
-
-
-void GetInput() {
+Console.WriteLine("Type 'exit' to quit the program.");
+do
+{
     Console.Write("User: ");
     string input = Console.ReadLine()!;
+    if (input.Equals("exit", StringComparison.OrdinalIgnoreCase))
+    {
+        break;
+    }
     history.AddUserMessage(input);
-}
+    await GetReply();
+} while (true);
+
+
+
+
+// void GetInput() {
+//     Console.Write("User: ");
+//     string input = Console.ReadLine()!;
+//     history.AddUserMessage(input);
+// }
 
 async Task GetReply() {
     ChatMessageContent reply = await chatCompletionService.GetChatMessageContentAsync(
@@ -75,9 +83,4 @@ async Task GetReply() {
     );
     Console.WriteLine("Assistant: " + reply.ToString());
     history.AddAssistantMessage(reply.ToString());
-}
-
-void AddUserMessage(string msg) {
-    Console.WriteLine("User: " + msg);
-    history.AddUserMessage(msg);
 }
