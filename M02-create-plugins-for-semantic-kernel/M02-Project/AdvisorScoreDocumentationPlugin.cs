@@ -17,7 +17,7 @@ public class AdvisorScoreDocumentationPlugin
     {
         // Initialize Azure AI Document Intelligence client
         string endpoint = "https://rg-hackathon-document-intelligence.cognitiveservices.azure.com/"; // Replace with your endpoint
-        string apiKey = "3Y7Q6vdItqSCbr1YHfi4HXHk3jeg2FF8eslkJYMsSgMw5EbdbxTyJQQJ99BDACYeBjFXJ3w3AAALACOG9iuO"; // Replace with your API key
+        string apiKey = "<your-form-recognizer-api-key>"; // Replace with your API key
         _documentAnalysisClient = new DocumentAnalysisClient(new Uri(endpoint), new AzureKeyCredential(apiKey));
         AnalyzeDocumentAsync(AdvisorScoreDocumentation).Wait();
 
@@ -39,7 +39,7 @@ public class AdvisorScoreDocumentationPlugin
         return string.Join("\n\n", relevantChunks);
     }
 
-    [KernelFunction("analyze_advisor_score_document")]
+    [KernelFunction("analyze_document")]
     [Description("Analyzes a document using Azure AI Document Intelligence and extracts structured data. Queries the knowledge extracted from Advisor Score documentation.Use this documentation to answer questions related advisor score and potential score caliculation and calculate the score using fromula.")]
     [return: Description("Extracted structured data from the document.")]
     public async Task<string> AnalyzeDocumentAsync(string documentPath)
