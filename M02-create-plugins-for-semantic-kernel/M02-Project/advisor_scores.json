@@ -1,0 +1,242 @@
+[
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 98,
+                "consumptionUnits": 300,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 3,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Advisor",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Advisor"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 90,
+                "consumptionUnits": 200,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 2,
+                "categoryCount": 5
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Cost",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Cost"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-01-30T00:00:00Z",
+                "score": 100,
+                "consumptionUnits": 4,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Security",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Security"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 31.08,
+                "consumptionUnits": 67,
+                "impactedResourceCount": 3,
+                "potentialScoreIncrease": 13.547237076648843,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Performance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 74.88,
+                "consumptionUnits": 75,
+                "impactedResourceCount": 2,
+                "potentialScoreIncrease": 0.31007751937984496,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "OperationalExcellence"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-02-07T00:00:00Z",
+                "score": 75.03,
+                "consumptionUnits": 91,
+                "impactedResourceCount": 38,
+                "potentialScoreIncrease": 28.473544973544975,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "HighAvailability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 60,
+                "consumptionUnits": 600,
+                "impactedResourceCount": 1,
+                "potentialScoreIncrease": 6,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/AdvisorScore/52fef986-5897-4359-8b92-0f22749f0d73",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "52fef986-5897-4359-8b92-0f22749f0d73"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 50,
+                "consumptionUnits": 500,
+                "impactedResourceCount": 26,
+                "potentialScoreIncrease": 5,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/AdvisorScore/42dbf883-9e4b-4f84-9da4-232b87c4b5e9",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "8b993855-1b3f-4392-8860-6ed4f5afd8a7"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 95,
+                "consumptionUnits": 100,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 1,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Advisor",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Advisor"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 80,
+                "consumptionUnits": 100,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 1,
+                "categoryCount": 5
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Cost",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Cost"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 90,
+                "consumptionUnits": 300,
+                "impactedResourceCount": 90,
+                "potentialScoreIncrease": 3,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Security",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Security"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 89,
+                "consumptionUnits": 400,
+                "impactedResourceCount": 10,
+                "potentialScoreIncrease": 4,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/HighAvailability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "HighAvailability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 97,
+                "consumptionUnits": 500,
+                "impactedResourceCount": 10,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Performance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Performance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 100,
+                "consumptionUnits": 600,
+                "impactedResourceCount": 5,
+                "potentialScoreIncrease": 6,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/OperationalExcellence",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "OperationalExcellence"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 70,
+                "consumptionUnits": 700,
+                "impactedResourceCount": 1,
+                "potentialScoreIncrease": 7,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/AdvisorScore/8b993855-1b3f-4392-8860-6ed4f5afd8a7",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "8b993855-1b3f-4392-8860-6ed4f5afd8a7"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 80,
+                "consumptionUnits": 800,
+                "impactedResourceCount": 2,
+                "potentialScoreIncrease": 8,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/AdvisorScore/cc9d34f5-f9b8-4d4f-9de7-98b45c698a49",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "cc9d34f5-f9b8-4d4f-9de7-98b45c698a49"
+    }
+]

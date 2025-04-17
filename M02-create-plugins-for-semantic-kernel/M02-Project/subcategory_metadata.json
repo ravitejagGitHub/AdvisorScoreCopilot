@@ -1,0 +1,125 @@
+[
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "ServiceUpgradeAndRetirement",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "EfficiencyOptimization",
+        "MaxScoreBySubCategory": 30
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "FailureMitigation",
+        "MaxScoreBySubCategory": 20
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "Scalability",
+        "MaxScoreBySubCategory": 10
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "MonitoringAndAlerting",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "Other",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "OperationalExcellence",
+        "SubCategory": "SafeAndSecureDeployment",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "NetworkOptimization",
+        "MaxScoreBySubCategory": 25
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "DataPerformance",
+        "MaxScoreBySubCategory": 20
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "StorageOptimization",
+        "MaxScoreBySubCategory": 25
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "ComputeOptimization",
+        "MaxScoreBySubCategory": 25
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "Scalability",
+        "MaxScoreBySubCategory": 10
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "MonitoringAndAlerting",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "ServiceUpgradeAndRetirement",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "Performance",
+        "SubCategory": "Other",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "BusinessContinuity",
+        "Description": "Business Continuity",
+        "MaxScoreBySubCategory": 20
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "DisasterRecovery",
+        "Description": "Disaster Recovery",
+        "MaxScoreBySubCategory": 15
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "HighAvailability",
+        "Description": "High Availability",
+        "MaxScoreBySubCategory": 30
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "MonitoringAndAlerting",
+        "Description": "Monitoring and alerting",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "Other",
+        "Description": "Other best practice recommendations",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "Scalability",
+        "Description": "Scalability",
+        "MaxScoreBySubCategory": 10
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "ServiceUpgradeAndRetirement",
+        "Description": "Service upgrade and Retirement",
+        "MaxScoreBySubCategory": 5
+    },
+    {
+        "Category": "HighAvailability",
+        "SubCategory": "Personalized",
+        "Description": "Personalized recommendations",
+        "MaxScoreBySubCategory": 40
+    }
+]

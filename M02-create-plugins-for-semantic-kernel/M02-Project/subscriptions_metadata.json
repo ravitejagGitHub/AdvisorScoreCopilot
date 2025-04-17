@@ -1,0 +1,12 @@
+[
+    {
+        "Id": "r7892e4-fcb8-4d03-b28c-bbe123caf2fc",
+        "Name": "Advisor score Test",
+        "Type": "AdvisorScore"
+    },
+    {
+        "Id": "1c23456a-ed3e-4b03-b374-82d4c86f0b12",
+        "Name": "Azure Event Readiness Test",
+        "Type": "AdvisorScore"
+    }
+]
