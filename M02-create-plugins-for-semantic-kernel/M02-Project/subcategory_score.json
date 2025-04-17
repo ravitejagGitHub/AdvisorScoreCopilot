@@ -1,0 +1,512 @@
+[
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 5,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 15,
+                "impactedResourceCount": 12,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/ServiceUpgradeAndRetirement",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "ServiceUpgradeAndRetirement"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 30,
+                "MaxScoreBySubCategory": 30,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 50,
+                "impactedResourceCount": 40,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/EfficiencyOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "EfficiencyOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 16.67,
+                "MaxScoreBySubCategory": 20,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 30,
+                "impactedResourceCount": 20,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/FailureMitigation",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "FailureMitigation"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 9.38,
+                "MaxScoreBySubCategory": 10,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 20,
+                "impactedResourceCount": 15,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/Scalability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Scalability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 5,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 15,
+                "impactedResourceCount": 12,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/MonitoringAndAlerting",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "MonitoringAndAlerting"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 4.61,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 678,
+                "impactedResourceCount": 500,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/Other",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Other"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 4.22,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 890,
+                "impactedResourceCount": 600,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/SafeAndSecureDeployment",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "SafeAndSecureDeployment"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 12.04,
+                "MaxScoreBySubCategory": 25,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 345,
+                "impactedResourceCount": 200,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/NetworkOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "NetworkOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 9.82,
+                "MaxScoreBySubCategory": 20,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 678,
+                "impactedResourceCount": 400,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/DataPerformance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "DataPerformance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 13.21,
+                "MaxScoreBySubCategory": 25,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 789,
+                "impactedResourceCount": 500,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/StorageOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "StorageOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 1.78,
+                "MaxScoreBySubCategory": 25,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 234,
+                "impactedResourceCount": 20,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/ComputeOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "ComputeOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 1.47,
+                "MaxScoreBySubCategory": 10,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 567,
+                "impactedResourceCount": 50,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/Scalability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Scalability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 1.47,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 678,
+                "impactedResourceCount": 150,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/MonitoringAndAlerting",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "MonitoringAndAlerting"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 1.64,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 890,
+                "impactedResourceCount": 350,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/ServiceUpgradeAndRetirement",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "ServiceUpgradeAndRetirement"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2024-12-04T00:00:00Z",
+                "score": 1.69,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 123,
+                "impactedResourceCount": 50,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/Performance/Other",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Other"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 9.23,
+                "MaxScoreBySubCategory": 20,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 25,
+                "impactedResourceCount": 15,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/BusinessContinuity",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "BusinessContinuity"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 7.69,
+                "MaxScoreBySubCategory": 15,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 30,
+                "impactedResourceCount": 20,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/DisasterRecovery",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "DisasterRecovery"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 18.46,
+                "MaxScoreBySubCategory": 30,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 50,
+                "impactedResourceCount": 40,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/HighAvailability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "HighAvailability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 25.64,
+                "MaxScoreBySubCategory": 40,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 60,
+                "impactedResourceCount": 50,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/Personalized",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Personalized"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 3.08,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 15,
+                "impactedResourceCount": 12,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/MonitoringAndAlerting",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "MonitoringAndAlerting"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 3.08,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 15,
+                "impactedResourceCount": 12,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/Other",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Other"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 5.77,
+                "MaxScoreBySubCategory": 10,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 20,
+                "impactedResourceCount": 15,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/Scalability",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "Scalability"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 3.08,
+                "MaxScoreBySubCategory": 5,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 15,
+                "impactedResourceCount": 12,
+                "potentialScoreIncrease": 0,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/r7892e4-fcb8-4d03-b28c-bbe123caf2fc/providers/Microsoft.Advisor/advisorScore/HighAvailability/ServiceUpgradeAndRetirement",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "ServiceUpgradeAndRetirement"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 45,
+                "MaxScoreBySubCategory": 80,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 125,
+                "impactedResourceCount": 85,
+                "potentialScoreIncrease": 35,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/ServiceUpgradeAndRetirement",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "ServiceUpgradeAndRetirement"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 55,
+                "MaxScoreBySubCategory": 80,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 150,
+                "impactedResourceCount": 95,
+                "potentialScoreIncrease": 25,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/EfficiencyOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "EfficiencyOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 35,
+                "MaxScoreBySubCategory": 80,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 130,
+                "impactedResourceCount": 75,
+                "potentialScoreIncrease": 45,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/OperationalExcellence/FailureMitigation",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "FailureMitigation"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 65,
+                "MaxScoreBySubCategory": 80,
+                "OverallMaxscoreByCategory": 80,
+                "consumptionUnits": 180,
+                "impactedResourceCount": 120,
+                "potentialScoreIncrease": 15,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Performance/NetworkOptimization",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "NetworkOptimization"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 75,
+                "MaxScoreBySubCategory": 120,
+                "OverallMaxscoreByCategory": 120,
+                "consumptionUnits": 200,
+                "impactedResourceCount": 150,
+                "potentialScoreIncrease": 45,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/Performance/DataPerformance",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "DataPerformance"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 85,
+                "MaxScoreBySubCategory": 130,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 220,
+                "impactedResourceCount": 170,
+                "potentialScoreIncrease": 45,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/HighAvailability/BusinessContinuity",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "BusinessContinuity"
+    },
+    {
+        "properties": {
+            "lastRefreshedScore": {
+                "date": "2025-04-17T00:00:00Z",
+                "score": 95,
+                "MaxScoreBySubCategory": 130,
+                "OverallMaxscoreByCategory": 130,
+                "consumptionUnits": 250,
+                "impactedResourceCount": 190,
+                "potentialScoreIncrease": 35,
+                "categoryCount": 1
+            }
+        },
+        "id": "/subscriptions/1c23456a-ed3e-4b03-b374-82d4c86f0b12/providers/Microsoft.Advisor/advisorScore/HighAvailability/DisasterRecovery",
+        "type": "Microsoft.Advisor/advisorScore",
+        "name": "DisasterRecovery"
+    }
+]
